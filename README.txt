@@ -1,0 +1,3 @@
+- test.py program koji validira uspesnost vaseg resenja nad train skupom podataka (na osnovu res.txt i out.txt)
+- res.txt tacno resenje za svaki video zapis (kombinacija ime fajla i suma cifara)
+- out.txt fajl u koji je potrebno upisati rezultat koje je vas program izracunao (trenutno su sve nule)
